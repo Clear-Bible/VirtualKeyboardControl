@@ -368,3 +368,4 @@ installer/Output/ClearDashboard_0.4.3.0.exe
 /src/ClearDashboard.Wpf.Application/Resources/BuildDate.txt
 /src/ClearDashboard.Wpf.Application/Resources/BuildDate.txt
 *.vsidx
+*.vsidx
