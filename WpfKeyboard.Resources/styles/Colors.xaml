@@ -1,30 +1,29 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    
-    
-    
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+
     <Color x:Key="ForegroundColor">#ffffff</Color>
     <Color x:Key="ForegroundColorSelected">#ffffff</Color>
 
     <Color x:Key="BackgroundColorKey">#2E1700</Color>
     <Color x:Key="BackgroundColorKeyMouseOver">#ffffff</Color>
     <Color x:Key="BackgroundColorKeySelected">#ffffff</Color>
-    
+
     <Color x:Key="BackgroundColorToggleKey">#ffffff</Color>
     <Color x:Key="BackgroundColorToggleKeyMouseOver">#ffffff</Color>
     <Color x:Key="BackgroundColorToggleKeyMouseSelected">#ffffff</Color>
-    <!--ACCENT COLORS-->
+    <!--  ACCENT COLORS  -->
     <Color x:Key="HighlightColor">#FF086F9E</Color>
-    <!--80%-->
+    <!--  80%  -->
     <Color x:Key="AccentColor">#CC119EDA</Color>
-    <!--60%-->
+    <!--  60%  -->
     <Color x:Key="AccentColor2">#99119EDA</Color>
-    <!--40%-->
+    <!--  40%  -->
     <Color x:Key="AccentColor3">#66119EDA</Color>
-    <!--20%-->
+    <!--  20%  -->
     <Color x:Key="AccentColor4">#33119EDA</Color>
 
-    <!--BASE COLORS-->
+    <!--  BASE COLORS  -->
     <Color x:Key="BlackColor">#FF000000</Color>
     <Color x:Key="WhiteColor">#FFFFFFFF</Color>
 
@@ -40,22 +39,54 @@
     <Color x:Key="Gray10">#FFF7F7F7</Color>
 
 
+    <!--  primary  -->
+    <Color x:Key="PrimaryHueLight">#6EC6FF</Color>
+    <Color x:Key="PrimaryHueLightForeground">#000000</Color>
+    <Color x:Key="PrimaryHueMid">#2196F3</Color>
+    <Color x:Key="PrimaryHueMidForeground">#000000</Color>
+    <Color x:Key="PrimaryHueDark">#0069C0</Color>
+    <Color x:Key="PrimaryHueDarkForeground">#FFFFFF</Color>
+    <!--  accent  -->
+    <Color x:Key="SecondaryHueLight">#FFF350</Color>
+    <Color x:Key="SecondaryHueLightForeground">#000000</Color>
+    <Color x:Key="SecondaryHueMid">#FFC107</Color>
+    <Color x:Key="SecondaryHueMidForeground">#000000</Color>
+    <Color x:Key="SecondaryHueDark">#C79100</Color>
+    <Color x:Key="SecondaryHueDarkForeground">#000000</Color>
+
+    <!--  primary  -->
+    <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="{DynamicResource PrimaryHueLight}" />
+    <SolidColorBrush x:Key="PrimaryHueLightForegroundBrush" Color="{DynamicResource PrimaryHueLightForeground}" />
+    <SolidColorBrush x:Key="PrimaryHueMidBrush" Color="{DynamicResource PrimaryHueMid}" />
+    <SolidColorBrush x:Key="PrimaryHueMidForegroundBrush" Color="{DynamicResource PrimaryHueMidForeground}" />
+    <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="{DynamicResource PrimaryHueDark}" />
+    <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="{DynamicResource PrimaryHueDarkForeground}" />
+    <!--  accent  -->
+    <SolidColorBrush x:Key="SecondaryHueLightBrush" Color="{DynamicResource SecondaryHueLight}" />
+    <SolidColorBrush x:Key="SecondaryHueLightForegroundBrush" Color="{DynamicResource SecondaryHueLightForeground}" />
+    <SolidColorBrush x:Key="SecondaryHueMidBrush" Color="{DynamicResource SecondaryHueMid}" />
+    <SolidColorBrush x:Key="SecondaryHueMidForegroundBrush" Color="{DynamicResource SecondaryHueMidForeground}" />
+    <SolidColorBrush x:Key="SecondaryHueDarkBrush" Color="{DynamicResource SecondaryHueDark}" />
+    <SolidColorBrush x:Key="SecondaryHueDarkForegroundBrush" Color="{DynamicResource SecondaryHueDarkForeground}" />
+
+
     <SolidColorBrush x:Key="WhiteBrush" Color="{DynamicResource WhiteColor}" />
     <SolidColorBrush x:Key="BlackBrush" Color="{DynamicResource BlackColor}" />
     <SolidColorBrush x:Key="TextBrush" Color="{DynamicResource WhiteColor}" />
+    <SolidColorBrush x:Key="BlueBrush" Color="{DynamicResource AccentColor}" />
 
-    <SolidColorBrush x:Key="GrayBrush1" Color="{DynamicResource Gray1}"/>
-    <SolidColorBrush x:Key="GrayBrush2" Color="{DynamicResource Gray2}"/>
-    <SolidColorBrush x:Key="GrayBrush3" Color="{DynamicResource Gray3}"/>
-    <SolidColorBrush x:Key="GrayBrush4" Color="{DynamicResource Gray4}"/>
-    <SolidColorBrush x:Key="GrayBrush5" Color="{DynamicResource Gray5}"/>
-    <SolidColorBrush x:Key="GrayBrush6" Color="{DynamicResource Gray6}"/>
-    <SolidColorBrush x:Key="GrayBrush7" Color="{DynamicResource Gray7}"/>
-    <SolidColorBrush x:Key="GrayBrush8" Color="{DynamicResource Gray8}"/>
-    <SolidColorBrush x:Key="GrayBrush9" Color="{DynamicResource Gray9}"/>
-    <SolidColorBrush x:Key="GrayBrush10" Color="{DynamicResource Gray10}"/>
+    <SolidColorBrush x:Key="GrayBrush1" Color="{DynamicResource Gray1}" />
+    <SolidColorBrush x:Key="GrayBrush2" Color="{DynamicResource Gray2}" />
+    <SolidColorBrush x:Key="GrayBrush3" Color="{DynamicResource Gray3}" />
+    <SolidColorBrush x:Key="GrayBrush4" Color="{DynamicResource Gray4}" />
+    <SolidColorBrush x:Key="GrayBrush5" Color="{DynamicResource Gray5}" />
+    <SolidColorBrush x:Key="GrayBrush6" Color="{DynamicResource Gray6}" />
+    <SolidColorBrush x:Key="GrayBrush7" Color="{DynamicResource Gray7}" />
+    <SolidColorBrush x:Key="GrayBrush8" Color="{DynamicResource Gray8}" />
+    <SolidColorBrush x:Key="GrayBrush9" Color="{DynamicResource Gray9}" />
+    <SolidColorBrush x:Key="GrayBrush10" Color="{DynamicResource Gray10}" />
     <SolidColorBrush x:Key="TextBoxBorderBrush" Color="{DynamicResource Gray6}" />
-    <SolidColorBrush x:Key="AccentBrush" Color="{DynamicResource AccentColor}"/>
+    <SolidColorBrush x:Key="AccentBrush" Color="{DynamicResource AccentColor}" />
     <SolidColorBrush x:Key="ButtonMouseOverInnerBorderBrush" Color="{DynamicResource BlackColor}" />
     <SolidColorBrush x:Key="ButtonMouseOverBorderBrush" Color="{DynamicResource BlackColor}" />
     <SolidColorBrush x:Key="ControlsDisabledBrush" Color="#A5FFFFFF" />

@@ -289,13 +289,15 @@
     </key>
   </row>
   <row>
-    <key>
+  <!--
+  <key>
       <normal keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</normal>
       <shift keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</shift>
       <numSym keytype="switcheroo" keycode="LeftCtrl" enabled="false">Ctrl</numSym>
       <smiley keytype="switcheroo" keycode="LeftCtrl" enabled="false">Ctrl</smiley>
       <ctrl keytype="switcheroo" keycode="LeftCtrl" switcherooCode="ctrl">Ctrl</ctrl>
     </key>
+	-->
     <key>
       <normal keytype="switcheroo" switcherooCode="numSym">&amp;123</normal>
       <shift keytype="switcheroo" switcherooCode="numSym">&amp;123</shift>
@@ -303,6 +305,7 @@
       <smiley keytype="switcheroo" switcherooCode="numSym">&amp;123</smiley>
       <ctrl keytype="switcheroo" switcherooCode="numSym">&amp;123</ctrl>
     </key>
+      <!--
     <key>
       <normal keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</normal>
       <shift keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</shift>
@@ -310,12 +313,13 @@
       <smiley keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</smiley>
       <ctrl keytype="switcheroo" switcherooCode="smiley" usesRenderer="true">&#xf118;</ctrl>
     </key>
+	-->
     <key>
-      <normal colspan="6" keycode="Space" value=" "></normal>
-      <shift colspan="6" keycode="Space" value=" "></shift>
+      <normal colspan="7" keycode="Space" value=" "></normal>
+      <shift colspan="7" keycode="Space" value=" "></shift>
       <numSym keytype="virtual" keycode="Left" usesRenderer="true">&#xf053;</numSym>
       <smiley keytype="virtual" keycode="Left" usesRenderer="true">&#xf053;</smiley>
-      <ctrl colspan="6" keycode="Space" value=" "></ctrl>
+      <ctrl colspan="7" keycode="Space" value=" "></ctrl>
     </key>
     <key>
       <numSym keytype="virtual" keycode="Right" usesRenderer="true">&#xf054;</numSym>
@@ -352,11 +356,11 @@
       <numSym keytype="null"></numSym>
     </key>
     <key>
-      <normal keytype="languageKey" usesRenderer="true">&#xf11c;</normal>
-      <shift keytype="languageKey" usesRenderer="true">&#xf11c;</shift>
-      <ctrl keytype="languageKey" usesRenderer="true">&#xf11c;</ctrl>
-      <numSym keytype="languageKey" usesRenderer="true" column="23">&#xf11c;</numSym>
-      <smiley keytype="languageKey" usesRenderer="true">&#xf11c;</smiley>
+      <normal colspan="2" keytype="languageKey" usesRenderer="true">&#xf11c;</normal>
+      <shift colspan="2" keytype="languageKey" usesRenderer="true">&#xf11c;</shift>
+      <ctrl colspan="2" keytype="languageKey" usesRenderer="true">&#xf11c;</ctrl>
+      <numSym colspan="2" keytype="languageKey" usesRenderer="true" column="23">&#xf11c;</numSym>
+      <smiley colspan="2" keytype="languageKey" usesRenderer="true">&#xf11c;</smiley>
     </key>
   </row>
 </keyboard>

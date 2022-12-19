@@ -7,10 +7,9 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
 using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Resources;
 using System.Xml.Linq;
-using Microsoft.Expression.Interactivity.Core;
+using Microsoft.Xaml.Behaviors.Core;
 using wpfKeyBoard.Model;
 using Keyboard = wpfKeyBoard.Model.Keyboard;
 
