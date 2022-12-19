@@ -8,6 +8,9 @@
     <PackageProjectUrl>https://github.com/Clear-Bible/WPF-Keyboard-Control</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Clear-Bible/WPF-Keyboard-Control</RepositoryUrl>
     <PackageTags>Hebrew; Greek; OnScreen; Keyboard</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>$(AssemblyName)-clear</PackageId>
+    <Title>VirtualKeyboardControl</Title>
   </PropertyGroup>
   <ItemGroup>
     <AppDesigner Include="Properties\" />
