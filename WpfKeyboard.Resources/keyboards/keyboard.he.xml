@@ -25,8 +25,8 @@
 			<ctrl>w</ctrl>
 		</key>
 		<key>
-			<normal>ֶ</normal>
-			<shift>ֵ</shift>
+			<normal></normal>
+			<shift></shift>
 			<numSym>@</numSym>
 			<numSym1>}</numSym1>
 			<smiley>:(</smiley>
@@ -57,7 +57,7 @@
 			<ctrl>y</ctrl>
 		</key>
 		<key>
-			<normal>ֻ</normal>
+			<normal></normal>
 			<shift></shift>
 			<numSym>&amp;</numSym>
 			<numSym1>&#169;</numSym1>
@@ -65,15 +65,15 @@
 			<ctrl>underline</ctrl>
 		</key>
 		<key>
-			<normal>ִ</normal>
+			<normal></normal>
 			<shift></shift>
 			<numSym keytype="null"></numSym>
 			<smiley>:x</smiley>
 			<ctrl>italics</ctrl>
 		</key>
 		<key>
-			<normal>ֹ</normal>
-			<shift>ֹ</shift>
+			<normal></normal>
+			<shift></shift>
 			<numSym>1</numSym>
 			<smiley>:P</smiley>
 			<ctrl>o</ctrl>
@@ -102,8 +102,8 @@
 	</row>
 	<row>
 		<key>
-			<normal>ַ</normal>
-			<shift>ָ</shift>
+			<normal></normal>
+			<shift></shift>
 			<numSym keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym>
 			<numSym1 keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym1>
 			<smiley>;)</smiley>

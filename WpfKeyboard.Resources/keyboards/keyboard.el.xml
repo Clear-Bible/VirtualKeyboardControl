@@ -17,24 +17,24 @@
 			<ctrl>q</ctrl>
 		</key>
 		<key>
-			<normal>ὠ</normal>
-			<shift>Ὠ</shift>
+			<normal>ω</normal>
+			<shift>Ω</shift>
 			<numSym>!</numSym>
 			<numSym1>{</numSym1>
 			<smiley>:D</smiley>
 			<ctrl>w</ctrl>
 		</key>
 		<key>
-			<normal>ἐ</normal>
-			<shift>Ἐ</shift>
+			<normal>ε</normal>
+			<shift>Ε</shift>
 			<numSym>@</numSym>
 			<numSym1>}</numSym1>
 			<smiley>:(</smiley>
 			<ctrl>e</ctrl>
 		</key>
 		<key>
-			<normal>ῥ</normal>
-			<shift>Ῥ</shift>
+			<normal>ρ</normal>
+			<shift>Ρ</shift>
 			<numSym>#</numSym>
 			<numSym1>[</numSym1>
 			<smiley>:o</smiley>
@@ -57,23 +57,23 @@
 			<ctrl>y</ctrl>
 		</key>
 		<key>
-			<normal>ὐ</normal>
-			<shift>Υ̓</shift>
+			<normal>υ</normal>
+			<shift>Υ</shift>
 			<numSym>&amp;</numSym>
 			<numSym1>&#169;</numSym1>
 			<smiley>8)</smiley>
 			<ctrl>underline</ctrl>
 		</key>
 		<key>
-			<normal>ἰ</normal>
-			<shift>Ἰ</shift>
+			<normal>ι</normal>
+			<shift>Ι</shift>
 			<numSym keytype="null"></numSym>
 			<smiley>:x</smiley>
 			<ctrl>italics</ctrl>
 		</key>
 		<key>
-			<normal>ὀ</normal>
-			<shift>Ὀ</shift>
+			<normal>ο</normal>
+			<shift>Ο</shift>
 			<numSym>1</numSym>
 			<smiley>:P</smiley>
 			<ctrl>o</ctrl>
@@ -102,15 +102,15 @@
 	</row>
 	<row>
 		<key>
-			<normal>ἀ</normal>
-			<shift>Ἀ</shift>
+			<normal>α</normal>
+			<shift>Α</shift>
 			<numSym keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym>
 			<numSym1 keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym1>
 			<smiley>;)</smiley>
 			<ctrl>select all</ctrl>
 		</key>
 		<key>
-			<normal>ς</normal>
+			<normal>σ</normal>
 			<shift>Σ</shift>
 			<numSym>(</numSym>
 			<numSym1>~</numSym1>
@@ -142,16 +142,16 @@
 			<ctrl>g</ctrl>
 		</key>
 		<key>
-			<normal>̔</normal>
-			<shift>̔</shift>
+			<normal></normal>
+			<shift></shift>
 			<numSym>=</numSym>
 			<numSym1>&#162;</numSym1>
 			<smiley>3:)</smiley>
 			<ctrl>h</ctrl>
 		</key>
 		<key>
-			<normal>ἠ</normal>
-			<shift>Ἠ</shift>
+			<normal>η</normal>
+			<shift>Η</shift>
 			<numSym>+</numSym>
 			<numSym1>&#163;</numSym1>
 			<smiley>O:)</smiley>
@@ -173,8 +173,8 @@
 			<ctrl>l</ctrl>
 		</key>
 		<key>
-			<normal>̓́</normal>
-			<shift>̈</shift>
+			<normal></normal>
+			<shift></shift>
 			<numSym>5</numSym>
 			<smiley>^_^</smiley>
 			<ctrl>'</ctrl>
@@ -204,7 +204,7 @@
 		</key>
 		<key>
 			<normal>ζ</normal>
-			<shift>Z</shift>
+			<shift>Ζ</shift>
 			<numSym>\</numSym>
 			<numSym1>&#165;</numSym1>
 			<smiley>o.O</smiley>
@@ -212,7 +212,7 @@
 		</key>
 		<key>
 			<normal>ξ</normal>
-			<shift>Ζ</shift>
+			<shift>Ξ</shift>
 			<numSym>;</numSym>
 			<numSym1>&#8364;</numSym1>
 			<smiley>&gt;:O</smiley>

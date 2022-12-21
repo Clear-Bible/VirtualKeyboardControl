@@ -17,8 +17,9 @@
                         <Border
                             x:Name="Background"
                             Background="{TemplateBinding Background}"
-                            BorderBrush="{DynamicResource BlackBrush}"
-                            BorderThickness="2" />
+                            BorderBrush="Black"
+                            CornerRadius="2"
+                            BorderThickness="1" />
                         <Rectangle
                             x:Name="DisabledVisualElement"
                             Fill="{DynamicResource ControlsDisabledBrush}"
