@@ -18,15 +18,15 @@
 		</key>
 		<key>
 			<normal>ו</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>!</numSym>
 			<numSym1>{</numSym1>
 			<smiley>:D</smiley>
 			<ctrl>w</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym>@</numSym>
 			<numSym1>}</numSym1>
 			<smiley>:(</smiley>
@@ -34,7 +34,7 @@
 		</key>
 		<key>
 			<normal>ר</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>#</numSym>
 			<numSym1>[</numSym1>
 			<smiley>:o</smiley>
@@ -42,7 +42,7 @@
 		</key>
 		<key>
 			<normal>ת</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>$</numSym>
 			<numSym1>]</numSym1>
 			<smiley>8O</smiley>
@@ -57,23 +57,23 @@
 			<ctrl>y</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym>&amp;</numSym>
 			<numSym1>&#169;</numSym1>
 			<smiley>8)</smiley>
 			<ctrl>underline</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym keytype="null"></numSym>
 			<smiley>:x</smiley>
 			<ctrl>italics</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym>1</numSym>
 			<smiley>:P</smiley>
 			<ctrl>o</ctrl>
@@ -102,8 +102,8 @@
 	</row>
 	<row>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym>
 			<numSym1 keytype="page" usesRenderer="true" pageAction="next">&#xf0a9;</numSym1>
 			<smiley>;)</smiley>
@@ -119,7 +119,7 @@
 		</key>
 		<key>
 			<normal>ד</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>)</numSym>
 			<numSym1>`</numSym1>
 			<smiley>&lt;:(</smiley>
@@ -127,7 +127,7 @@
 		</key>
 		<key>
 			<normal>שׂ</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>-</numSym>
 			<numSym1>&#174;</numSym1>
 			<smiley>:/</smiley>
@@ -135,7 +135,7 @@
 		</key>
 		<key>
 			<normal>ג</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>_</numSym>
 			<numSym1>_</numSym1>
 			<smiley>:'(</smiley>
@@ -143,7 +143,7 @@
 		</key>
 		<key>
 			<normal>ה</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>=</numSym>
 			<numSym1>&#162;</numSym1>
 			<smiley>3:)</smiley>
@@ -151,7 +151,7 @@
 		</key>
 		<key>
 			<normal>שׁ</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>+</numSym>
 			<numSym1>&#163;</numSym1>
 			<smiley>O:)</smiley>
@@ -167,7 +167,7 @@
 		</key>
 		<key>
 			<normal>ל</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>4</numSym>
 			<smiley>&lt;3</smiley>
 			<ctrl>l</ctrl>
@@ -204,7 +204,7 @@
 		</key>
 		<key>
 			<normal>ז</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>\</numSym>
 			<numSym1>&#165;</numSym1>
 			<smiley>o.O</smiley>
@@ -212,7 +212,7 @@
 		</key>
 		<key>
 			<normal>ח</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>;</numSym>
 			<numSym1>&#8364;</numSym1>
 			<smiley>&gt;:O</smiley>
@@ -228,7 +228,7 @@
 		</key>
 		<key>
 			<normal>ט</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>"</numSym>
 			<numSym1>&#9827;</numSym1>
 			<smiley>:3</smiley>
@@ -236,7 +236,7 @@
 		</key>
 		<key>
 			<normal>ב</normal>
-			<shift></shift>
+			<shift> </shift>
 			<numSym>*</numSym>
 			<numSym1>&#9829;</numSym1>
 			<smiley>:|]</smiley>

@@ -173,8 +173,8 @@
 			<ctrl>l</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym>5</numSym>
 			<smiley>^_^</smiley>
 			<ctrl>'</ctrl>
@@ -227,8 +227,8 @@
 			<ctrl>copy</ctrl>
 		</key>
 		<key>
-			<normal></normal>
-			<shift></shift>
+			<normal> </normal>
+			<shift> </shift>
 			<numSym>"</numSym>
 			<numSym1>&#9827;</numSym1>
 			<smiley>:3</smiley>
